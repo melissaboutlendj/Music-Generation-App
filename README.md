@@ -11,7 +11,7 @@ Customizable Prompts: customize the music generation with your own words. For ex
 High-Quality Audio: the app generates high-quality audio with a length of up to 10.24 seconds, perfect for small musical snippets or background sounds.
 
 How to Use
-Input a Prompt: Type a text description of the music you want to generate. Example prompts could be:
+Input a Prompt: type a text description of the music you want to generate. Example prompts could be:
 
 "A serene and elegant piano composition, evoking a sense of royal grandeur."
 
@@ -40,9 +40,9 @@ Torch (PyTorch) for the deep learning model
 Diffusers library for the AI model that generates audio
 
 Install the necessary packages with:
-'''
+```
 pip install gradio torch diffusers
-'''
+```
 Example Prompts
 Here are some example prompts to try:
 
